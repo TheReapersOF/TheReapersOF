@@ -36,28 +36,3 @@ Experienced in:
 * Emotional Damage
 
 ---
-
-### 🤖 POLY-OPT
-
-AI-powered prediction market and hedging platform.
-
-Features:
-
-* Correlation-based trading
-* Automated hedging
-* Risk analysis
-* Position optimization
-* Emotional support not included
-
----
-
-## 📊 My Trading Strategy
-
-1. Draw random lines on chart
-2. Call it technical analysis
-3. Add Fibonacci
-4. Feel professional
-5. Ignore risk management
-6. Learn risk management
-
----
