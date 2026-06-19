@@ -1,16 +1,63 @@
-## Hi there 👋
+# 📈 Welcome to My Trading Lab
 
-<!--
-**TheReapersOF/TheReapersOF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Buy high, panic low." — Every beginner trader ever
 
-Here are some ideas to get you started:
+Hi, I'm Reaper 👋  
+Trader, builder, chart destroyer, and occasional liquidity provider to smarter people.
+---
+Contact ME: Telegram: @BTCSentinel83
+---
+I build:
+- 🤖 Algorithmic trading bots
+- 📊 Market analytics tools
+- ⚡ Trading automation systems
+- 🧠 AI-powered fintech apps
+- 💸 Strategies that work perfectly in backtests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+```python
+while market_is_open:
+    analyze()
+    overthink()
+    enter_trade()
+    regret()
+````
+
+Experienced in:
+
+* Quant Trading
+* Risk Management
+* Growth Marketing
+* Web3 & Prediction Markets
+* Full Stack Development
+* Emotional Damage
+
+---
+
+### 🤖 POLY-OPT
+
+AI-powered prediction market and hedging platform.
+
+Features:
+
+* Correlation-based trading
+* Automated hedging
+* Risk analysis
+* Position optimization
+* Emotional support not included
+
+---
+
+## 📊 My Trading Strategy
+
+1. Draw random lines on chart
+2. Call it technical analysis
+3. Add Fibonacci
+4. Feel professional
+5. Ignore risk management
+6. Learn risk management
+
+---
